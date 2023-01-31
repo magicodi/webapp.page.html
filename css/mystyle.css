@@ -1,0 +1,56 @@
+
+.all {
+    padding: 10%;
+}
+
+.headline {
+    text-align: center;
+}
+
+/*
+#container{
+    padding: 10%;
+}
+*/
+
+
+#container1 img {
+    border-radius: 50%;
+    width: 40%;
+    height: 50%;
+    /*display: inline;*/
+    float: left;
+    
+
+}
+
+#p1 {
+    display: inline;
+}
+
+/*
+img{
+    border-radius: 50%;
+    width: 40%;
+    height: 50%;
+    display: inline;
+    float: left;
+}
+*/
+
+body {
+    background: hsla(177, 87%, 79%, 1);
+    background: linear-gradient(90deg, hsla(177, 87%, 79%, 1) 0%, hsla(235, 89%, 70%, 1) 100%); 
+    background: -moz-linear-gradient(90deg, hsla(177, 87%, 79%, 1) 0%, hsla(235, 89%, 70%, 1) 100%);
+    background: -webkit-linear-gradient(90deg, hsla(177, 87%, 79%, 1) 0%, hsla(235, 89%, 70%, 1) 100%);    
+    filter: gradient( startColorstr="#9BF8F4", endColorstr="#6F7BF7", GradientType=1);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*
+#p1{
+    display: inline;
+}
+*/
+
